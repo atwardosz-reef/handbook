@@ -121,16 +121,6 @@ Descriptions tell you where you should bill your RT time on hubstaff.
 If you are working on any external project for the customer, you should bill all your time spent on this project onto it. Knowledge gathering, environment preparation, actual programming, meetings or design. If you need to learn a framework, library or language in order to deliver value for the project, bill the learning to that project as well. If the learning took a long time, please mention it to our PM on that project (so he might issue a discount to the customer if that's appropriate (that's pretty common, actually)).
 
 
-#### Bugs
-
-Workaround for window resize (most project names are like `RT / somethi...` - it is hard to find your project):
-you click `>>` then you can resize left pane a little bit, then `<<` - repeat several times - now you can read full project names.
-
-It tracks time per 10-minute slot per project, so if you log some time in the given 10-minute period, switch to another project and switch back to the first one, it cannot really be distinguished (number and order of such switches is not recorded).
-
-Another issue is that manually logged time in the given slot cannot co-exist with any application-tracked time, so if you work from 14:01 to 14:02 and then log manual time for 14:05 to 14:10, the manual time entry will eat the tracked time. It's quite difficult to run into this, but it happened at least once to us.
-
-
 ### Why do we use a time tracker
 
 #### So that we know how much you should be paid
