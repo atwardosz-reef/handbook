@@ -275,15 +275,15 @@ Create a new account for GitHub. The suggested username is the first letter of t
 
 ### Set this repository as watched
 
-Go [here](https://github.com/reef-technologies/handbook/subscription) and select ***watching***. This will send you an email whenever this repository is updated. This is useful to keep up with the training video/article list, description of chat channels and meaning of projects in the time tracker.
+Go [here](https://github.com/reef-technologies/handbook/subscription) and select ***watching***. If you do that, you will be sent an email whenever this repository is updated. It will help you keep up with the training content list, chat channel descriptions, and project descriptions for the time tracker.
 
-**WARNING:** if the document was updated after you started reading it and before you set the repository to watched, you could miss an update. Check the latest changes [here](https://github.com/reef-technologies/handbook/commits/master) after subscribing to updates.
+**WARNING:** If the document was updated after you started reading it and before you set the repository to watched, you could miss an update. Check the latest changes [here](https://github.com/reef-technologies/handbook/commits/master) after subscribing to updates.
 
 ### Avatars
 
-Please add your photo (one that shows your face clearly without sunglasses etc) to all services that we use: Slack, Github, time tracker, Trello, Atlassian account etc. It is recommended to add it to [gravatar](https://gravatar.com), then It will load up automatically to many services. Avatars are important, especially on non-small teams, but also everywhere in context of communication with the customer (or ourselves), where we want to be recognized as human beings rather than lines of text. Cultural differences, timezones and language barriers make communication a challenge - lets make it at least slightly easier by showing a smiling face to the customer and his team.
+Please add your photo to all services that we use: Slack, Github, Hubstaff, Trello, Atlassian etc. Your face should be clearly visible: no sunglasses etc. We recommended that you add it to [gravatar](https://gravatar.com), then it will automatically load up to many services. Avatars are important, especially on non-small teams, but also everywhere in context of communication with the clients or other members of the company. We want to be recognized as human beings rather than just lines of text. Cultural differences, timezones and language barriers make communication a challenge - let's make it at least slightly easier by showing a smiling face to the customer and his team.
 
-Why no sunglasses? Please imagine the company in a few years, where almost every avatar on slack looks the same: either a sunglassed person or a 10-pixel high character on the top or bottom of a mountain. That won't work. Therefore we should all use clear pictures from the beginning.
+Why no sunglasses? Please imagine the company in a few years, where almost every avatar on Slack looks the same: either a sunglassed person or a 10-pixel high character on the top or bottom of a mountain. That won't work. Therefore we should all use clear pictures from the beginning.
 
 
 ## 6. Communication
