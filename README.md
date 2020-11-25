@@ -334,7 +334,6 @@ Channels:
 - `#sales` - sales team sends notifications there about high quality leads, signed/terminated contracts etc.
 - `#security` - for things like [heartbleed](http://heartbleed.com/), [shellshock](https://www.symantec.com/outbreak/?id=shellshock), [krack](https://www.krackattacks.com/), [poodle](https://www.us-cert.gov/ncas/alerts/TA14-290A), [venom](http://venom.crowdstrike.com/), [ghost](https://blog.qualys.com/laws-of-vulnerabilities/2015/01/27/the-ghost-vulnerability), [meltdown/spectre](https://meltdownattack.com/)
 - `sociocracy` - the channel where sociocracy is coordinated (TODO: link to our S3 resources)
-- `staff` - internal staff channel
 - `va` - for delegating things to Virtual Assistants
 - `#website` - discussion about our company website and its development
 
