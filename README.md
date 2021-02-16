@@ -12,12 +12,13 @@ This should have been covered during your interview, but it is very important, s
 
  - happy clients
  - high-quality code in the repository
+ - decentralized decision making
 
-That's it. It may be surprising that there is no "happy employees" entry on the list. That is because we don't assume that we know what makes people happy.
+And that's it.
 
-We use the Sociocracy 3.0 decision making process to give control over the environment to the company staff. They might choose, which sometimes they do, to use that power to change how the company works. That, in turn, might increase their happiness. This mechanism works surprisingly well.
+We don't assume that we know what makes people happy, so we use the Sociocracy 3.0 decision-making process to give control over the environment to the company staff. They might choose, and sometimes they do, to use that power to change how the company works. That, in turn, might increase their happiness. This mechanism works surprisingly well.
 
-Here you can find list of [active agreements](agreements.md).
+Here you can find our list of [active agreements](agreements.md). Many of them were proposed by our current staff members.
 
 
 ## Deadlines and estimates
